@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221508358536",
+    "project_id": "fir-kotlin-cdc3c",
+    "storage_bucket": "fir-kotlin-cdc3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221508358536:android:fae610088c766c1f3aaa3d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221508358536-nl4288gf3vu6cg2uth4mq9lo0or6bfc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZhPIr_ViyxyWTic8lPO0Rj8aqJzH2mkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221508358536-nl4288gf3vu6cg2uth4mq9lo0or6bfc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
